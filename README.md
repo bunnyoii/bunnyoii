@@ -4,6 +4,6 @@
 * 🚀 I'm an undergraduate student of School of Software Engineering, Tongji University.
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=bunnyoii&show_icons=true&theme=tokyonight&count_private=true" height="190"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bunnyoii&theme=tokyonight&layout=compact" height="190"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=bunnyoii&show_icons=true&theme=tokyonight&count_private=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bunnyoii&theme=tokyonight&layout=compact" height="160"/>
 </div>
