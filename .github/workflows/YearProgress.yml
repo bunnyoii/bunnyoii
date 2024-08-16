@@ -15,9 +15,11 @@ jobs:
     - name: Update README.md
       run: node index.js > README.md
     - name: Commit change & Push
+      env:
+        GITHUB_TOKEN: ${{ secrets.ACTIONS_PAT }}
       run: |
-          git config user.name 'github-actions[bot]'
-          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add .
-          git commit -am "Update README.md automatically"
-          git push
+        git config user.name 'github-actions[bot]'
+        git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+        git add .
+        git commit -am "Update README.md automatically"
+        git push https://x-access-token:${{ secrets.ACTIONS_PAT }}@github.com/bunnyoii/bunnyoii.git
