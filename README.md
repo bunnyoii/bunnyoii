@@ -8,9 +8,9 @@
 > [!TIP]
 > ⏳ Year Progress [ ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▁▁▁▁▁▁▁▁▁▁▁▁ ] 62.35 %
 >
-> ⏰ Updated on Fri, 16 Aug 2024 04:44:52 GMT
+> ⏰ Updated on Fri, 16 Aug 2024 04:47:59 GMT
 
-### 👨‍💻 [About Me]
+### 👨‍💻 About Me
 
 * 🚀 I'm an undergraduate student of School of Software Engineering, [Tongji University](https://www.tongji.edu.cn).
 
