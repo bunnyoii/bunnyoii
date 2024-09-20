@@ -27,4 +27,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bunnyoii&layout=compact" height="160"/>
 </div>
 
-### 🥰 *Take a look at my repositories and let's get in touch!*
+### <img src="https://emojis.slackmojis.com/emojis/images/1643514958/9845/meow_heart.png?1643514958" height="30"/> *Take a look at my repositories and let's get in touch!*
