@@ -6,9 +6,9 @@
 </h1>
 
 > [!TIP]
-> ⏳ Year Progress [ ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▁▁▁▁▁▁▁▁▁ ] 71.87 %
+> ⏳ Year Progress [ ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▁▁▁▁▁▁▁▁▁ ] 72.14 %
 >
-> ⏰ Updated on Fri, 20 Sep 2024 01:00:59 GMT
+> ⏰ Updated on Sat, 21 Sep 2024 00:59:56 GMT
 
 ### 👨‍💻 About Me
 
@@ -27,4 +27,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bunnyoii&layout=compact" height="160"/>
 </div>
 
-### <img src="https://emojis.slackmojis.com/emojis/images/1643514958/9845/meow_heart.png?1643514958" height="30"/> *Take a look at my repositories and let's get in touch!*
+### 🥰 *Take a look at my repositories and let's get in touch!*
