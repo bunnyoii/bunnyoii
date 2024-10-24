@@ -6,11 +6,11 @@
 </h1>
 
 > [!TIP]
-> ⏳ Year Progress [ ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▁▁▁▁▁▁ ] 80.89 %
+> ⏳ Year Progress [ ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▁▁▁▁▁▁ ] 81.16 %
 >
-> ⏰ Updated on Wed, 23 Oct 2024 01:02:41 GMT
+> ⏰ Updated on Thu, 24 Oct 2024 01:02:56 GMT
 
-### 👨‍💻 *[About Me](https://bunnyoii.github.io)*
+### 👨‍💻 About Me
 
 * 🚀 I'm an undergraduate student of School of Software Engineering, [Tongji University](https://www.tongji.edu.cn).
 
