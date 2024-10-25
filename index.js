@@ -24,7 +24,7 @@ const readme = `\
 >
 > ⏰ Updated on ${new Date().toUTCString()}
 
-### 👨‍💻 About Me
+### 👨‍💻 *[About Me](https://bunnyoii.github.io)*
 
 * 🚀 I'm an undergraduate student of School of Software Engineering, [Tongji University](https://www.tongji.edu.cn).
 
